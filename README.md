@@ -1,9 +1,5 @@
 # SafeLink
-<br/>
-
-## 🛑 THIS PROJECT IS UNFINISHED
-
-<br/>
+### 🛑 THIS PROJECT IS UNFINISHED
 
 SafeLink is a website that'll let people create their own custom short URLs(SafeLinks) that they can share with other people.
 
